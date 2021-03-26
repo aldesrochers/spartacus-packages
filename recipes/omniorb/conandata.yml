@@ -1,0 +1,5 @@
+sources:
+  "4.3.0":
+    url: "https://sourceforge.net/projects/omniorb/files/omniORB/omniORB-4.3.0/omniORB-4.3.0-b1.tar.bz2/download"
+    filename: "omniORB-4.3.0.tar.bz2"
+    sha256: "0dd5d9b7f55cb95ea3aadb71ac3ab2446b43366b43153522a7ae8bf0f812122d"

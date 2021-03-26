@@ -1,0 +1,4 @@
+sources:
+  "3.8.8":
+    url: "https://www.python.org/ftp/python/3.8.8/Python-3.8.8.tar.xz"
+    sha256: "7c664249ff77e443d6ea0e4cf0e587eae918ca3c48d081d1915fe2a1f1bcc5cc"

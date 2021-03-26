@@ -1,0 +1,4 @@
+sources:
+  "3.20.0":
+    url: "https://github.com/Kitware/CMake/releases/download/v3.20.0/cmake-3.20.0.tar.gz"
+    sha256: "9c06b2ddf7c337e31d8201f6ebcd3bba86a9a033976a9aee207fe0c6971f4755"

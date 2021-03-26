@@ -1,0 +1,4 @@
+sources:
+  "4.14.1":
+    url: "https://download.qt.io/official_releases/qtcreator/4.14/4.14.1/qt-creator-opensource-src-4.14.1.tar.xz"
+    sha256: "ef6fdcbaebb0d3d37cfdbc68f8b9e94ffeb6f63194564da5ce77760bb7790367"

@@ -1,0 +1,17 @@
+sources:
+  "linux":
+     "5.11.1":
+       url: "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.1.tar.xz"
+       sha256: "057d6522edf930fe52271cd616ae918fdb591a60809c9c01fa698041f764b9be"
+  "gcc":
+     "10.2.0":
+       url: "https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz"
+       sha256: "b8dd4368bb9c7f0b98188317ee0254dd8cc99d1e3a18d0ff146c855fe16c1d8c"
+  "binutils":
+    "2.36":
+      url: "https://ftp.gnu.org/gnu/binutils/binutils-2.36.tar.xz"
+      sha256: "5788292cc5bbcca0848545af05986f6b17058b105be59e99ba7d0f9eb5336fb8"
+  "glibc":
+    "2.33":
+      url: "http://ftp.gnu.org/gnu/glibc/glibc-2.33.tar.xz"
+      sha256: "2e2556000e105dbd57f0b6b2a32ff2cf173bde4f0d85dffccfd8b7e51a0677ff"
